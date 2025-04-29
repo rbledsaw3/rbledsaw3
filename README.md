@@ -1,13 +1,13 @@
 ## 🧠 About Me
 
-I'm a real-life Renaissance engineer with the spirit of a dungeon master and the mind of a debugger. By day, I'm a manufacturing engineer working on rapidly deployable shelters. By night, I craft pixel art heroes, homebrew D&D adventures, and retro-style games where Dracula’s on a mission from the Pope.
+### 👋 Hi, I’m Robert Bledsaw III  
+- **Mechanical Engineer → Software Engineer**  
+- **Backend & DevOps Enthusiast** (Go • PostgreSQL • Docker • Kubernetes)  
+- **Automation Aficionado**: from factory-floor tooling to CI/CD pipelines  
+- **Indie Game Dev**: crafting pixel-art prototypes in spare minutes  
+- **Husband & Dad of 10**—efficiency is in my DNA  
 
-With ten kids and zero tolerance for inefficiency, I thrive on building systems that actually work — whether it’s refactoring legacy code, orchestrating Dockerized pipelines, or optimizing RPG combat loops in Python. I’ve got nearly two decades of experience in software, and I still get fired up about clever automation, clean architecture, and human-readable code.
-
-🛠️ Engineer.  
-🎲 Storyteller.  
-👨‍👩‍👧‍👦 Provider.  
-💾 Old-school soul with new-school skills.
+🚀 Always optimizing scripts, systems, and life itself. Let’s build something awesome!
 
 ---
 
