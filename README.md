@@ -2,7 +2,8 @@
 
 ### 👋 Hi, I’m Robert Bledsaw III  
 - **Mechanical Engineer → Software Engineer**  
-- **Backend & DevOps Enthusiast** (Go • PostgreSQL • Docker • Kubernetes)  
+- **Backend & DevOps Enthusiast** (Go • PostgreSQL • Docker • Kubernetes)
+- **Polyglot Developer**: C/C++, Java, JavaScript, Go, PHP & more  
 - **Automation Aficionado**: from factory-floor tooling to CI/CD pipelines  
 - **Indie Game Dev**: crafting pixel-art prototypes in spare minutes  
 - **Husband & Dad of 10**—efficiency is in my DNA  
