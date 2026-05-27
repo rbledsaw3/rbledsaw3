@@ -15,9 +15,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+| GitHub Stats |
+|:------------:|
+| ![Stats](./profile/stats.svg) |
+| ![Top Languages](./profile/top-langs.svg) |
+| ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg) |
 
 <div align="center">
     <a href="https://github.com/rbledsaw3/">
