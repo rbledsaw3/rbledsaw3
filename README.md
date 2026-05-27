@@ -1,12 +1,12 @@
 ## 🧠 About Me
 
 ### 👋 Hi, I’m Robert Bledsaw III  
-- **Mechanical Engineer → Software Engineer**  
-- **Backend & DevOps Enthusiast** (Go • PostgreSQL • Docker • Kubernetes)
-- **Polyglot Developer**: C/C++, Java, JavaScript, Go, TypeScript, PHP & more  
-- **Automation Aficionado**: from factory-floor tooling to CI/CD pipelines  
-- **Indie Game Dev**: crafting game engines & pixel-art prototypes in spare minutes  
-- **Husband & Dad of 10**  
+- **Mechanical Engineer → Software Engineer**: 5 years in the Defense Industry, 3 in Custom Kitchen Equipment, 10+ in Agriculture
+- **Backend & DevOps Enthusiast**: Go • PostgreSQL • MS SQL Server • Docker • Kubernetes • Azure DevOps
+- **Polyglot Developer**: C/C++, Java, JavaScript, Go, Python, Jython, TypeScript, PHP & more  
+- **Automation Aficionado**: ⚙️ from factory-floor tooling to CI/CD pipelines; everything is a workflow 🌎👨‍🚀🔫👨‍🚀
+- **Manufacturing Digital Transformation Expert**: ♻️ performing scalable paperless migrations before it was cool 😎
+- **Husband & Dad of 12**  
 
 🚀 Always optimizing scripts, systems, and life itself. Let’s build something awesome!
 
