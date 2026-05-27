@@ -15,14 +15,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-| GitHub Stats |
-|:------------:|
-| ![Stats](./profile/stats.svg) |
-| ![Top Languages](./profile/top-langs.svg) |
-| ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg) |
-
 <div align="center">
     <a href="https://github.com/rbledsaw3/">
+    <img src="https://raw.githubusercontent.com/rbledsaw3/rbledsaw3/master/profile/stats.svg"/>
+    <br>
+    <img src="https://raw.githubusercontent.com/rbledsaw3/rbledsaw3/master/profile/top-langs.svg"/>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=rbledsaw3&label=profile+views&color=ff0c00&style=flat">
     </a>
 </div>
