@@ -4,7 +4,7 @@
 - **Mechanical Engineer → Software Engineer**: 5 years in the Defense Industry, 3 in Custom Kitchen Equipment, 10+ in Agriculture
 - **Backend & DevOps Enthusiast**: Go • PostgreSQL • MS SQL Server • Docker • Kubernetes • Azure DevOps
 - **Polyglot Developer**: C/C++, Java, JavaScript, Go, Python, Jython, TypeScript, PHP & more  
-- **Automation Aficionado**: ⚙️ from factory-floor tooling to CI/CD pipelines; everything is a workflow 🌎👨‍🚀🔫👨‍🚀
+- **Automation Aficionado**: ⚙️ from factory-floor to CI/CD pipelines; everything is a workflow 🌎👨‍🚀🔫👨‍🚀
 - **Manufacturing Digital Transformation Expert**: ♻️ performing scalable paperless migrations before it was cool 😎
 - **Husband & Dad of 12**  
 
