@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Robert Bledsaw's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 41, Total PRs: 260, Total Issues: 25, Contributed to (last year): 1</desc>
+        <title id="titleId">Robert Bledsaw&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 41, Total PRs: 266, Total Issues: 26, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 143.98221910125417;
+        stroke-dashoffset: 143.55943737281848;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Robert Bledsaw's GitHub Stats</text>
+      >Robert Bledsaw&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >260</text>
+      >266</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >25</text>
+      >26</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
